@@ -9,3 +9,7 @@
 
 - **Deploy:** [Frontend on Vercel](https://pruebas-front-sigma.vercel.app)
 - **Repository:** [GitHub Repo - Frontend](https://github.com/Matias222/pruebas-front)
+
+## BD
+
+Se encuentra en el free tier de Supabase
